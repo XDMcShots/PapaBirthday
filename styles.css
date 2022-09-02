@@ -1,0 +1,19 @@
+body {
+  background-color: #394a6d;
+}
+
+.hidden {
+  color: #394a6d;
+}
+
+.shown {
+  color: #3c9d9b;
+  text-align: center;
+}
+
+/*
+#394a6d
+#3c9d9b
+#52de97
+#c0ffb3
+*/
